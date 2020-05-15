@@ -8,8 +8,8 @@ export default class Blog extends Component {
 			<div className="colorlib-narrow-content">
 				<div className="row">
 					<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-					<span className="heading-meta">Read</span>
-					<h2 className="colorlib-heading">Recent Blog</h2>
+					<span className="heading-meta">Readings</span>
+					<h2 className="colorlib-heading">Recent Blog Posts</h2>
 					</div>
 				</div>
 				<div className="row">
@@ -17,9 +17,9 @@ export default class Blog extends Component {
 					<div className="blog-entry">
 						<a href="blog.html" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
-							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Renovating National Gallery</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<span><small>Lorem ipsum dolor sit amet </small> | <small> consectetur adipiscing elit, sed do eiusmod tempor inci </small> | <small> <i className="icon-bubble3" /> 4</small></span>
+							<h3><a href="blog.html">Duis aute irure</a></h3>
+							<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
 						</div>
 					</div>
 					</div>
@@ -28,8 +28,8 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<h3><a href="blog.html">Odio ut enim</a></h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Donec pretium vulputate sapien nec sagittis. Tempor orci dapibus ultrices in iaculis</p>
 						</div>
 					</div>
 					</div>
@@ -38,8 +38,8 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Make website from scratch</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<h3><a href="blog.html">Eget nullam non nisi est sit amet facilisis magna</a></h3>
+							<p>Ipsum suspendisse ultrices gravida dictum fusce ut. At consectetur lorem donec massa sapien faucibus et molestie ac. Hendrerit dolor magna eget est lorem ipsum dolor.</p>
 						</div>
 					</div>
 					</div>

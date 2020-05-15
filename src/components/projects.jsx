@@ -17,8 +17,8 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<h3><a href="https://wonderful-wing-37c0d0.netlify.app/">Interviewer Scheduler (hint: click here)</a></h3>
+											<span>React App</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -32,8 +32,8 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="work.html">Custom Fitness </a></h3>
+											<span>Deployment In Progress</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -47,7 +47,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
+											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Illustration</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
@@ -62,7 +62,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
+											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Application</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
@@ -77,7 +77,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
+											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Graphic, Logo</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
@@ -92,7 +92,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
+											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Web Design</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
