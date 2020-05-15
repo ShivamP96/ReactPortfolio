@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 
 export default class Introduction extends Component {
-  redner(){
+  render(){
+    return (
       <div>
         <div className="awesome" style={{border: '1px solid red'}}>
           <label htmlFor="name">Enter your name: </label>
@@ -47,5 +48,5 @@ export default class Introduction extends Component {
         </section><p />
       </div>
 
-  }
+    )}
 }
