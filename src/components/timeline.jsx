@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Lighthouse Labs <span>January 2020 - March 2020</span></h2>
-                        <p>Recent graduate from Lighthouse Labs 12 week Web Developer Bootcamp. We build many projects and learned a variety of languages and environments like HTML, CSS, Javascipt, Ruby and Ruby on Rails, JSX, Git, JQuery, React and NodeJS.</p>
+                        <p>Recent graduate from Lighthouse Labs 12 week Web Developer Bootcamp. We built many projects and learned a variety of languages and environments like HTML, CSS, JavaScript, Ruby and Ruby on Rails, JSX, Git, JQuery, React and NodeJS.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>BSc. Physics. McMaster Univerity. Hamilton, Ontario Canada<span>2015-2019</span></h2>
-                        <p>Graduate in Medical and Health Physics with two Co-op placements; OPG as a health physicist and in McMaster Nuclear Reactor as a Technician. I took a variety of computer electronic courses and software programmming courses in Python and C.</p>
+                        <p>Graduate in Medical and Health Physics with two Co-op placements; OPG as a health physicist and in McMaster Nuclear Reactor as a Technician. I took a variety of computer electronic courses and software programming courses in Python and C.</p>
                       </div>
                     </div>
                   </article>
