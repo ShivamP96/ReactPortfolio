@@ -20,9 +20,9 @@ export default class Projects extends Component {
 											<h3><a href="https://wonderful-wing-37c0d0.netlify.app/">Interviewer Scheduler (hint: click here)</a></h3>
 											<span>React App</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -35,9 +35,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Custom Fitness </a></h3>
 											<span>Deployment In Progress</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -50,9 +50,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Illustration</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -65,9 +65,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Application</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -80,9 +80,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Graphic, Logo</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -95,9 +95,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Coming Soon</a></h3>
 											<span>Web Design</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -106,7 +106,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								{/* <p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p> */}
 							</div>
 						</div>
 					</div>
